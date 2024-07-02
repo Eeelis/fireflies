@@ -1,4 +1,4 @@
-Sonifying the emergent behaviour of [Nicky Case's firefly algorithm](https://ncase.me/fireflies/). 
+This project sonifies the emergent behaviour of [Nicky Case's firefly algorithm](https://ncase.me/fireflies/), translating the spontaneous synchronization of fireflies into sound.
 
 Built in Unity Engine 2020.3.25f1.
 
