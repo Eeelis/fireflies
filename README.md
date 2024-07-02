@@ -2,6 +2,8 @@ This project sonifies the emergent behaviour of [Nicky Case's firefly algorithm]
 
 Built in Unity Engine 2020.3.25f1.
 
+[Here’s](https://www.youtube.com/watch?v=jElA1fO7SpA) a video showcasing the project! 
+
 <br>
 
 ---
